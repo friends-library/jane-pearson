@@ -1,4 +1,4 @@
-== Section 2
+== Chapter 2
 
 [.chapter-synopsis]
 * Her family Loss of two children

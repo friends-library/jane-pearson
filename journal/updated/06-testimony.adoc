@@ -1,8 +1,9 @@
-== The Testimony of Pardshaw Monthly Meeting in Cumberland, concerning Jane Pearson.
+[#testimony.style-blurb, short="Testimony of Pardshaw Meeting"]
+== The Testimony of Pardshaw Monthly Meeting in Cumberland, concerning Jane Pearson
 
 This our dear and ancient Friend, was the daughter of Jonathan and Jane Sibson,
 of Newtown, near Carlisle, at the former of which places she was born,
-in the year 1734 or 6. Her father dying when she was very young,
+in the year 1734. Her father dying when she was very young,
 the principal care of her upbringing devolved upon her mother, who, we believe,
 being conscientiously concerned that she might faithfully
 discharge such an important trust,
@@ -102,21 +103,25 @@ She was about eighty-one years of age, and a minister about forty-two years.
 Read and approved in our said meeting, held at Cockermouth, the 19th of third month,
 1816; and signed on behalf thereof by,
 
+[.signed-section-signature]
 John Wilson Fletcher, Clerk to the meeting.
 
 And on behalf of the women`'s meeting, by,
 
+[.signed-section-signature]
 Deborah Robinson, Clerk.
 
 The foregoing testimony has been read and approved,
 in the Quarterly Meeting for Cumberland and Northumberland,
 held at Carlisle the 28th of third month, 1816; and signed on behalf thereof by,
 
+[.signed-section-signature]
 Thomas Stordy, Clerk.
 
 Signed in and on behalf of the women`'s Quarterly Meeting,
 held at the same time and place by,
 
+[.signed-section-signature]
 Lydia Sutton, Clerk.
 
 [.asterism]

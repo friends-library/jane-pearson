@@ -1,12 +1,18 @@
 == Chapter II.
 
-Her family--Loss of two children--Decease of her husband--Her testimony
-concerning him--Decease of her only remaining son--First,
-journey in the work of the ministry--Decease of her mother, father-in-law,
-and daughter Hannah--Visits Lancashire, Cheshire, etc.,
-and some Western counties--Decease of her second daughter--Removal to Whitehaven,
-1791--Decease of her youngest daughter--Observations at various times,
-to the year 1795--Her exercise respecting vocal supplication in meetings.
+[.chapter-synopsis]
+* Her family Loss of two children
+* Decease of her husband
+* Her testimony concerning him
+* Decease of her only remaining son
+* First journey in the work of the ministry
+* Decease of her mother, father-in-law, and daughter Hannah
+* Visits Lancashire, Cheshire, etc., and some Western counties
+* Decease of her second daughter
+* Removal to Whitehaven, 1791
+* Decease of her youngest daughter
+* Observations at various times, to the year 1795
+* Her exercise respecting vocal supplication in meetings.
 
 I now began to have great outward trials, when there was an abatement in the inward.
 I had an affectionate husband, who in my spiritual infancy bore part of my sufferings.
@@ -31,8 +37,11 @@ they may see from what kind of stock they have sprung.
 For their welfare my very soul is moved within me, and causes me to go bowed down,
 imploring that Divine assistance may be their aid through this valley of tears.
 
-Jane Pearson`'s Testimony concerning her dear deceased husband, John Pearson,
-who departed this life the 14th of sixth month, 1774.
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== Jane Pearson`'s Testimony concerning her dear deceased husband, John Pearson, who departed this life the 14th of sixth month, 1774
 
 He was born of believing parents, who gave him a tolerable education; and I believe,
 according to the best of their ability, trained him up in the nurture of the Lord.
@@ -99,7 +108,10 @@ He departed without any struggle, as one falling into the sweetest of slumbers,
 and was decently buried in Friends`' burying-ground, at Graysouthen,
 aged forty-nine years.
 
+[.signed-section-signature]
 Jane Pearson.
+
+--
 
 The Lord was now about to divest me of my beloveds;
 the next year He took my eldest son in a fever, so that I had no son.
@@ -125,134 +137,92 @@ lost her health.
 She continued in a state of great weakness, for about three years,
 and departed this life in 1784, my father-in-law dying a little before her.
 
+[.offset]
 +++[+++The compiler of these memoirs, has stated in the introduction,
 that the subject of them occasionally wrote a few poetic verses.
 On the event just mentioned, she poured forth her maternal feelings, nearly as follows,
 without any view to their insertion here;
 but perhaps the introduction of them may not be deemed improper.
 
-Lines on my beloved daughter, Hannah Pearson.
+=== Lines on my beloved daughter, Hannah Pearson.
 
+[verse]
+____
 A widow`'d mother while I sit,
-
 In silence and dismay,
-
 I feel a spirit-stirring power,
-
 That prompts the sorrowing lay.
 
 Then from a mother`'s bosom, let
-
 The mournful numbers flow;
-
 The ear of pity will forgive,
-
 My mingling hope and woe.
 
 There are who hold that life is but
-
 A shadow or a flower;
-
 My soul aspires to higher good,
-
 Than bounds the present hour:
 
 That good, my Hannah sure has reach`'d
-
 And will forever prove:
-
 Her bosom was th`' abode of peace,
-
 Of innocence and love.
 
 For those whom evil tongues traduced,
-
 She felt compassion rise;
-
 While innocence, the richest gem!
-
 Sat lovely in her eyes.
 
 Strict modesty around her form.
-
 Was like a mantle cast;
-
 Her features beam`'d intelligence,
-
 But--these from earth are past!
 
 Then who can tell the loss of her,
-
 Or number up my tears?
-
 I live: but ah! a sadness hangs
-
 O`'er my declining years.
 
 My dearest consort died again
-
 In Hannah`'s parting breath:
-
 My days are spent in grief,
-
 for who Has known so much of death?
 
 Sweet were thy words, my beauteous child
-
 That thou to me express`'d,
-
 When, watching thy declining strength,
-
 I hung upon thy breast.
 
 And in the anguish of my soul,
-
 To God prefer`'d my prayer,
-
 That, in compassion, yet thy life,
-
 He would be pleased to spare.
 
 Thou meekly answer`'dst "`Mother dear!
-
 I`'d rather go than thee,
-
 If such the righteous will of God;
-
 For best that will must be:`"
 
 "`Tho`' parted for a little space,
-
 We`'ll hope to meet again.`"
-
 Such resignation gave me strength,
-
 The conflict to sustain.
 
 Can I describe the setting eye?
-
 The faultering tongue restore?
-
-The trembling hand?
-the shorten`'d breath?
-
+The trembling hand? the shorten`'d breath?
 --I cease--For all is o`'er.
 
 Fair as a lily, and as sweet,
-
 My lovely Hannah grew;
-
 But soon she from the garden here,
-
 To Paradise withdrew.
 
 Ye sister lilies! keep like her,
-
 Your innocence and love,
-
 When gather`'d from the earth,
-
 you`'ll then In beauty rise above.
+____
 
 Returning now to the journal:]
 
