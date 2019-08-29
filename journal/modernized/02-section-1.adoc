@@ -1,4 +1,4 @@
-== Section 1
+== Chapter 1
 
 [.chapter-synopsis]
 * Her reasons for writing some memoirs of herself

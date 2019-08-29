@@ -1,10 +1,14 @@
 == Chapter I.
 
-Her reasons for writing some memoirs of herself--Her birth and parentage--The
-state of her mind in very early life--Her resolution not to open her mouth in
-the ministry--Her marriage--The deep inward conflicts she endured for not resigning
-herself to Divine disposal till she was made willing to obey--Her first offering
-in the ministry--Her remarks on this important office.
+[.chapter-synopsis]
+* Her reasons for writing some memoirs of herself
+* Her birth and parentage
+* The state of her mind in very early life
+* Her resolution not to open her mouth in the ministry
+* Her marriage
+* The deep inward conflicts she endured for not resigning herself to Divine disposal till she was made willing to obey
+* Her first offering in the ministry
+* Her remarks on this important office.
 
 It has long remained with weight upon my mind,
 to leave a few remarks respecting the Lord`'s dealings,
@@ -43,7 +47,7 @@ But if they were further advanced,
 I endeavoured to appease these fears by considering myself young,
 and that I might escape such a removal in youth; for I was afraid to die, and that awful^
 footnote:[Throughout this journal,
-the world awful carries its original meaning of "`full
+the word awful carries its original meaning of "`full
 of awe,`" or "`worthy of respect or fear.`"]
 "`forever and ever,`" brought sadness over me.
 
@@ -367,7 +371,7 @@ Great were my care and fear not always to act upon
 the first views which the Lord brought to my mind;
 although they were sometimes such as to led me to conclude,
 "`Surely the Lord`'s anointed is before me;`"^
-footnote:[1 Samuel 16:6 - Referring to the impressive appearance of the Jesse`'s firstborn,
+footnote:[1 Samuel 16:6 - Referring to the impressive appearance of Jesse`'s firstborn,
 Eliab.
 These two paragraphs are figuratively comparing the way the Lord brings openings
 to the mind for ministry with the way that Samuel viewed the 8 sons of Jesse,
