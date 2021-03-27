@@ -1,4 +1,4 @@
-[#testimony.style-blurb, short="Testimony of Pardshaw Meeting"]
+[.style-blurb, short="Testimony of Pardshaw Meeting"]
 == The Testimony of Pardshaw Monthly Meeting in Cumberland, concerning Jane Pearson
 
 This our dear and ancient Friend, was the daughter of Jonathan and Jane Sibson,
